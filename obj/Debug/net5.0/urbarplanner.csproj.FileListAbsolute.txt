@@ -1,0 +1,16 @@
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\bin\Debug\net5.0\urbarplanner.exe
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\bin\Debug\net5.0\urbarplanner.deps.json
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\bin\Debug\net5.0\urbarplanner.runtimeconfig.json
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\bin\Debug\net5.0\urbarplanner.runtimeconfig.dev.json
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\bin\Debug\net5.0\urbarplanner.dll
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\bin\Debug\net5.0\ref\urbarplanner.dll
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\bin\Debug\net5.0\urbarplanner.pdb
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\obj\Debug\net5.0\urbarplanner.csproj.AssemblyReference.cache
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\obj\Debug\net5.0\urbarplanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\obj\Debug\net5.0\urbarplanner.AssemblyInfoInputs.cache
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\obj\Debug\net5.0\urbarplanner.AssemblyInfo.cs
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\obj\Debug\net5.0\urbarplanner.csproj.CoreCompileInputs.cache
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\obj\Debug\net5.0\urbarplanner.dll
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\obj\Debug\net5.0\ref\urbarplanner.dll
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\obj\Debug\net5.0\urbarplanner.pdb
+C:\Users\mel\workspace\server-side\book-1\practice\chap13\urbarplanner\obj\Debug\net5.0\urbarplanner.genruntimeconfig.cache
